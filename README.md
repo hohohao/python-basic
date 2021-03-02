@@ -1,4 +1,3 @@
-![cover](https://raw.githubusercontent.com/looly/python-basic/master/cover_small.jpg)
 # 声明
 原作者：老齐（qiwsir）
 原作者Github：[https://github.com/qiwsir](https://github.com/qiwsir)
@@ -21,10 +20,6 @@
     - 学习完这门语言之后，能够直接“实战”——用在工作上。
     - 学习完这门语言之后，能够顺利理解并学习其它语言。
     - python本身功能强大，一门语言也可以打天下，省却了以后的学习成本。
-
-下面的图示统计显示：Python现在成为美国名校中最流行的编程入门语言。
-  ![](https://camo.githubusercontent.com/564fab8f8af978ff1aa5e477d21a266f240010ec/687474703a2f2f6361636d2e61636d2e6f72672f73797374656d2f6173736574732f303030312f363435312f546f7033392d3730302e322e706e67)
-  [点击这里看上图来源](https://github.com/qiwsir/ITArticles/blob/master/Python/Python%E7%8E%B0%E5%9C%A8%E6%88%90%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%90%8D%E6%A0%A1%E4%B8%AD%E6%9C%80%E6%B5%81%E8%A1%8C%E7%9A%84%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8%E8%AF%AD%E8%A8%80.md)
     综上，我有了这样一个冲动，做一个栏目，面对零基础要学习Python的朋友，面对将python做为第一门高级语言的朋友。这就是开始本栏目的初衷。
     
     
